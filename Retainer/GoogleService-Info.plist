@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>761787449980-v5o4ulkq1l90o331qqdtmhtf1fbjn9i1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.761787449980-v5o4ulkq1l90o331qqdtmhtf1fbjn9i1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCztX09bYiq_hxiHIG29qQUvV1PJZZihOw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>761787449980</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Augmatiks.Retainer</string>
+	<key>PROJECT_ID</key>
+	<string>retainer-cd1bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>retainer-cd1bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:761787449980:ios:5d2c28e1ce38ab69</string>
+	<key>DATABASE_URL</key>
+	<string>https://retainer-cd1bb.firebaseio.com</string>
+</dict>
+</plist>
